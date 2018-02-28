@@ -4,7 +4,7 @@
 ## Introduction
 This repository was created by cyber security enthusiasts as a collaborative knowledge base on various security related topics and to host the sources of a virtual environment built for practice and testing purposes. This document is therefore intended at providing an overview of the objectives of this project, as well as describing the standards adopted by its members.
 
-## Objectives
+## Objectives
 As previously stated, the primary objective of this project is to provide an opportunity for members to practice on various security related topics. However, this essentially involves a the creation of a platform to configure, customise and deploy virtual machine on request. In the long term, this platform could be used for various types of security related exercises or challenges, such as CTF.
 
 ## Choice of topics
