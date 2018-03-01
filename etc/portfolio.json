@@ -1,0 +1,20 @@
+{
+  "1": {
+    "name": "ssh_bruteforcing",
+    "desc": "",
+    "difficulty": "1",
+    "category": "network_services",
+    "platform": "linux",
+    "tags": ["ssh"],
+    "version": "1.0"
+  },
+  "2": {
+    "name": "portknocking",
+    "desc": "",
+    "difficulty": "2",
+    "category": "network_services",
+    "platform": "linux",
+    "tags":  ["host-based","firewall"],
+    "version": "1.0"
+  }
+}
