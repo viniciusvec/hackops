@@ -16,7 +16,7 @@ The project relies exclusively on the involvement of its members. Topics are sug
 
 ## Structure of the platform
 Since _hackops_ is a collaborative project, the goal is to create a portable and flexible platform. This involves:
-  1. The use of virtual machines. To increase cross-compatibility between OSs, the use of __Virtualbox__ as hypervisor is preferred
+  * The use of virtual machines. To increase cross-compatibility between OSs, the use of __Virtualbox__ as hypervisor is preferred
   * __Vagrant__ is used to manage the VMs' configuration and overall infrastructure of the environment
   * __Ansible__ is used to provision the VMs. It can easily be used with vagrant to provision VMs locally, and can later be used with cloud based providers such as Amazon
   * A custom Python (or other language, to be determined) randomisation program in charge of assigning playbooks to VMs in function of different users' inputs
